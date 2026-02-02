@@ -1,0 +1,116 @@
+# Xcode
+#
+build/
+DerivedData/
+*.xcworkspace/
+!*.xcworkspace/contents.xcworkspacedata
+!*.xcworkspace/xcshareddata
+!*.xcworkspace/xcuserdata
+!*.xcuserdata/
+*.moved-aside
+*.xcscmblueprint
+*.xccheckout
+
+# Xcode iOS
+#
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Xcode - Object files
+#
+*.o
+*.linkfilelist
+*.lldb
+
+
+# Xcode - Dsym files
+#
+*.dSYM
+
+# Xcode - Indexes
+#
+*.idx
+
+# Xcode - Archives
+#
+*.xcarchive
+
+# Xcode - Breakpoints
+#
+*.xcdebugger
+
+# Xcode - Schemes
+#
+xcshareddata/xcschemes
+
+# Swift Package Manager
+#
+.swiftpm
+.build/
+Packages/
+Package.pins
+Package.resolved
+
+# CocoaPods
+#
+Pods/
+*Podfile.lock
+
+# Carthage
+#
+Carthage/Build/
+
+# fastlane
+#
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
+
+# Flutter
+#
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.flutter_settings
+.pub-cache
+build/
+
+# Misc
+#
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+
+# Markdown config
+#
+*.md
+
+# User-specific files
+#
+*.user
+*.xcuserdatad
+*.swp
+*~.nib
+*~.nib~
+
+# Generated files
+#
+*.plist~
+*.pbxuser
+*.perspectivev3
+*.sketch
+*.tiff
+
+.DS_Store
+
+

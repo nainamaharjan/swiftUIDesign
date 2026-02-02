@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1238" height="450" viewBox="0 0 1238 450">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="1121.483" height="411" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="74" height="344" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="graph" transform="translate(0 -183.547)">
+    <rect id="Rectangle_3794" data-name="Rectangle 3794" width="1157" height="450" transform="translate(0 183.547)" fill="#2e333e"/>
+    <g id="横線" transform="translate(17.258 208.453)" clip-path="url(#clip-path)">
+      <g transform="translate(-105.5 -377)">
+        <line id="Line_26" data-name="Line 26" x2="1119.983" y2="0.094" transform="translate(104.5 378.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-105.5 -300)">
+        <line id="Line_26-2" data-name="Line 26" x2="1119.983" y2="0.094" transform="translate(104.5 378.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-105.5 -223)">
+        <line id="Line_26-3" data-name="Line 26" x2="1119.983" y2="0.094" transform="translate(104.5 378.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-105.5 -146)">
+        <line id="Line_26-4" data-name="Line 26" x2="1119.983" y2="0.094" transform="translate(104.5 378.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-105.5 -69)">
+        <line id="Line_26-5" data-name="Line 26" x2="1119.983" y2="0.094" transform="translate(104.5 378.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-105.5 8)">
+        <line id="Line_26-6" data-name="Line 26" x2="1119.983" y2="0.094" transform="translate(104.5 378.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="graph-2" data-name="graph" transform="translate(17 274.311)">
+      <path id="Line_25" data-name="Line 25" d="M1118.523.5H0v-1H1118.523Z" transform="translate(0.517 321.236)" fill="#fff"/>
+      <rect id="Rectangle_3795" data-name="Rectangle 3795" width="35" height="51" transform="translate(1 270.236)" fill="#7c7b7b"/>
+      <rect id="Rectangle_3796" data-name="Rectangle 3796" width="30" height="86" transform="translate(36 235.236)" fill="#3c65bc"/>
+      <rect id="Rectangle_3797" data-name="Rectangle 3797" width="23" height="119" transform="translate(66 202.236)" fill="#3b7b27"/>
+      <rect id="Rectangle_3798" data-name="Rectangle 3798" width="64" height="41" transform="translate(89 280.236)" fill="#7c7b7b"/>
+      <rect id="Rectangle_3799" data-name="Rectangle 3799" width="8" height="182" transform="translate(153 139.236)" fill="#e01010"/>
+      <rect id="Rectangle_3800" data-name="Rectangle 3800" width="9" height="205" transform="translate(202 116.236)" fill="#e01010"/>
+      <rect id="Rectangle_3807" data-name="Rectangle 3807" width="9" height="246" transform="translate(308 75.236)" fill="#e01010"/>
+      <rect id="Rectangle_3811" data-name="Rectangle 3811" width="9" height="284" transform="translate(411 37.236)" fill="#e01010"/>
+      <rect id="Rectangle_3803" data-name="Rectangle 3803" width="9" height="223" transform="translate(255 98.236)" fill="#e01010"/>
+      <rect id="Rectangle_3805" data-name="Rectangle 3805" width="10" height="246" transform="translate(360 75.236)" fill="#e01010"/>
+      <rect id="Rectangle_3809" data-name="Rectangle 3809" width="11" height="284" transform="translate(462 37.236)" fill="#e01010"/>
+      <rect id="Rectangle_3801" data-name="Rectangle 3801" width="41" height="41" transform="translate(161 280.236)" fill="#7c7b7b"/>
+      <rect id="Rectangle_3806" data-name="Rectangle 3806" width="44" height="41" transform="translate(264 280.236)" fill="#7c7b7b"/>
+      <rect id="Rectangle_3810" data-name="Rectangle 3810" width="41" height="41" transform="translate(370 280.236)" fill="#7c7b7b"/>
+      <rect id="Rectangle_3802" data-name="Rectangle 3802" width="44" height="41" transform="translate(211 280.236)" fill="#7c7b7b"/>
+      <rect id="Rectangle_3804" data-name="Rectangle 3804" width="43" height="41" transform="translate(317 280.236)" fill="#7c7b7b"/>
+      <rect id="Rectangle_3808" data-name="Rectangle 3808" width="42" height="41" transform="translate(420 280.236)" fill="#7c7b7b"/>
+      <rect id="Rectangle_3812" data-name="Rectangle 3812" width="224" height="86" transform="translate(473 235.236)" fill="#3c65bc"/>
+      <rect id="Rectangle_3813" data-name="Rectangle 3813" width="42" height="41" transform="translate(697 280.236)" fill="#7c7b7b"/>
+      <rect id="Rectangle_3814" data-name="Rectangle 3814" width="11" height="182" transform="translate(739 139.236)" fill="#e01010"/>
+      <rect id="Rectangle_3815" data-name="Rectangle 3815" width="10" height="205" transform="translate(789 116.236)" fill="#e01010"/>
+      <rect id="Rectangle_3816" data-name="Rectangle 3816" width="10" height="246" transform="translate(892 75.236)" fill="#e01010"/>
+      <rect id="Rectangle_3817" data-name="Rectangle 3817" width="10" height="229" transform="translate(842 92.236)" fill="#e01010"/>
+      <rect id="Rectangle_3818" data-name="Rectangle 3818" width="9" height="260" transform="translate(948 61.236)" fill="#e01010"/>
+      <rect id="Rectangle_3819" data-name="Rectangle 3819" width="39" height="41" transform="translate(750 280.236)" fill="#7c7b7b"/>
+      <rect id="Rectangle_3820" data-name="Rectangle 3820" width="40" height="41" transform="translate(852 280.236)" fill="#7c7b7b"/>
+      <rect id="Rectangle_3821" data-name="Rectangle 3821" width="43" height="41" transform="translate(799 280.236)" fill="#7c7b7b"/>
+      <rect id="Rectangle_3822" data-name="Rectangle 3822" width="46" height="41" transform="translate(902 280.236)" fill="#7c7b7b"/>
+      <rect id="Rectangle_3823" data-name="Rectangle 3823" width="131" height="86" transform="translate(957 235.236)" fill="#3c65bc"/>
+      <rect id="Rectangle_3824" data-name="Rectangle 3824" width="31" height="41" transform="translate(1088 280.236)" fill="#7c7b7b"/>
+    </g>
+    <g id="縦軸" transform="translate(1164 199)" clip-path="url(#clip-path-2)">
+      <g transform="translate(-1273 -379)">
+        <text id="_500W" data-name="500W" transform="translate(1333 395)" fill="#fff" font-size="19" font-family="Futura-Light, Futura" font-weight="300"><tspan x="-56.335" y="0">500W</tspan></text>
+      </g>
+      <g transform="translate(-1273 -302)">
+        <text id="_400W" data-name="400W" transform="translate(1333 395)" fill="#fff" font-size="19" font-family="Futura-Light, Futura" font-weight="300"><tspan x="-56.335" y="0">400W</tspan></text>
+      </g>
+      <g transform="translate(-1273 -225)">
+        <text id="_300W" data-name="300W" transform="translate(1333 395)" fill="#fff" font-size="19" font-family="Futura-Light, Futura" font-weight="300"><tspan x="-56.335" y="0">300W</tspan></text>
+      </g>
+      <g transform="translate(-1273 -148)">
+        <text id="_200W" data-name="200W" transform="translate(1333 395)" fill="#fff" font-size="19" font-family="Futura-Light, Futura" font-weight="300"><tspan x="-56.335" y="0">200W</tspan></text>
+      </g>
+      <g transform="translate(-1273 -71)">
+        <text id="_100W" data-name="100W" transform="translate(1333 395)" fill="#fff" font-size="19" font-family="Futura-Light, Futura" font-weight="300"><tspan x="-56.335" y="0">100W</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

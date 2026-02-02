@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48.5" height="46.371" viewBox="0 0 48.5 46.371">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3828" data-name="Rectangle 3828" width="48.5" height="46.371" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Duration_icon" transform="translate(0 0)">
+    <g id="Group_2022" data-name="Group 2022" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="Path_1215" data-name="Path 1215" d="M45.312,40.438l4.833,3.727a3.036,3.036,0,0,0,6.05-.374c0-.064-.015-.126-.02-.189l7.082-8.378a1.18,1.18,0,1,0-1.746-1.553L54.554,41.1a2.938,2.938,0,0,0-2.893.047l-4.549-3.168a1.537,1.537,0,0,0-1.8,2.454" transform="translate(-27.836 -20.607)" fill="#fff"/>
+      <path id="Path_1216" data-name="Path 1216" d="M41.71,6.79A23.122,23.122,0,0,0,25.314,0v5.62A17.575,17.575,0,1,1,8.362,18.6l2.278,1.419a1.084,1.084,0,0,0,.97.1.832.832,0,0,0,.526-.717l.981-12.846a1.1,1.1,0,0,0-1.605-1L.414,12.1A.831.831,0,0,0,0,12.885a1.076,1.076,0,0,0,.521.827l2.908,1.811A23.186,23.186,0,1,0,41.71,6.79" transform="translate(0 0.001)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

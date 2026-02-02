@@ -1,0 +1,22 @@
+//
+//  BarMarginsEnvironmentKey.swift
+//
+//
+//  Created by Zijie on 18.05.2023.
+ 
+//
+//  ====================================================================================================================
+//
+
+import SwiftUI
+
+struct BarMarginsEnvironmentKey: EnvironmentKey {
+    static var defaultValue: EdgeInsets? { nil }
+}
+
+extension EnvironmentValues {
+    var tabBarMargins: EdgeInsets? {
+        get { self[BarMarginsEnvironmentKey.self] }
+        set { self[BarMarginsEnvironmentKey.self] = newValue }
+    }
+}

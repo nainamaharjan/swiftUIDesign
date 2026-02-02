@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53" height="53" viewBox="0 0 53 53">
+  <g id="bluetooth" transform="translate(0 -2.094)">
+    <g id="bluetooth-2" data-name="bluetooth" transform="translate(0 1.802)">
+      <rect id="Rectangle_3766" data-name="Rectangle 3766" width="53" height="53" transform="translate(53 0.292) rotate(90)" fill="#6798ff" opacity="0"/>
+      <path id="Path_1183" data-name="Path 1183" d="M22.936,22.986l8.882-8.416a2.531,2.531,0,0,0-.289-3.93L21.16,3.468a2.6,2.6,0,0,0-2.687-.178A2.554,2.554,0,0,0,17.1,5.511V19.278L10.013,10.4a2.255,2.255,0,1,0-3.464,2.887l7.705,9.7L6.482,32.823a2.221,2.221,0,0,0,.355,3.109,2.221,2.221,0,0,0,1.377.377,2.221,2.221,0,0,0,1.732-.844L17.1,26.45V40.417A2.583,2.583,0,0,0,21.16,42.5l10.3-7.061a2.6,2.6,0,0,0,1.088-1.887,2.554,2.554,0,0,0-.755-2.021ZM21.537,9.13l5.551,3.841-5.551,5.24Zm0,27.734V27.827l5.485,5.285Z" transform="translate(7.329 3.66)" fill="#6798ff"/>
+    </g>
+  </g>
+</svg>
