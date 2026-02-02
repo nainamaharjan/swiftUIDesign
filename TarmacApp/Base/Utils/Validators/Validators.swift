@@ -2,7 +2,7 @@
 //  validators.swift
 //  SIM App
 //
-//  Created by Rajan Maharjan on 20/05/2024.
+//  Created by Naina Maharjan on 20/05/2024.
 //
 
 import Foundation

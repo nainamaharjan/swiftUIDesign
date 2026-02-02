@@ -2,7 +2,7 @@
 ////  AppEmptyView.swift
 ////  SIM App
 ////
-////  Created by Rajan Maharjan on 02/07/2024.
+////  Created by Naina Maharjan on 02/07/2024.
 ////
 //
 //import SwiftUI

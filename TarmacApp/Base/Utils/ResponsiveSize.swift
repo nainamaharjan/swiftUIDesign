@@ -2,7 +2,7 @@
 //  responsive_size.swift
 //  SIM App
 //
-//  Created by Rajan Maharjan on 17/05/2024.
+//  Created by Naina Maharjan on 17/05/2024.
 //
 
 import SwiftUI

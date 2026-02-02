@@ -2,7 +2,7 @@
 //  FormatDateTime.swift
 //  SIM App
 //
-//  Created by Rajan Maharjan on 06/06/2024.
+//  Created by Naina Maharjan on 06/06/2024.
 //
 
 import Foundation

@@ -2,7 +2,7 @@
 //  HTMLTextView.swift
 //  SIM App
 //
-//  Created by Rajan Maharjan on 17/06/2024.
+//  Created by Naina Maharjan on 17/06/2024.
 //
 
 import SwiftUI

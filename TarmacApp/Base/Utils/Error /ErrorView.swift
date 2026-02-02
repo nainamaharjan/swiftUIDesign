@@ -2,7 +2,7 @@
 ////  ErrorView.swift
 ////  SIM App
 ////
-////  Created by Rajan Maharjan on 13/06/2024.
+////  Created by Naina Maharjan on 13/06/2024.
 ////
 //
 //import SwiftUI

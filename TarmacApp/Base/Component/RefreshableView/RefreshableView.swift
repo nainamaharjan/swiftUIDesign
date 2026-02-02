@@ -2,7 +2,7 @@
 //  RefreshableView.swift
 //  SIM App
 //
-//  Created by Rajan Maharjan on 23/06/2024.
+//  Created by Naina Maharjan on 23/06/2024.
 //
 
 import SwiftUI

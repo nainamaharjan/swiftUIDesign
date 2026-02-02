@@ -2,7 +2,7 @@
 //  back_button_circular.swift
 //  SIM App
 //
-//  Created by Rajan Maharjan on 23/05/2024.
+//  Created by Naina Maharjan on 23/05/2024.
 //
 
 import SwiftUI

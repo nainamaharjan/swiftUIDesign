@@ -2,7 +2,7 @@
 //  ImageModifier.swift
 //  SIM App
 //
-//  Created by Rajan Maharjan on 18/06/2024.
+//  Created by Naina Maharjan on 18/06/2024.
 //
 
 import SwiftUI

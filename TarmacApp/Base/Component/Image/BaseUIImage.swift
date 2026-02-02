@@ -2,7 +2,7 @@
 //  BaseUIImage.swift
 //  SIM App
 //
-//  Created by Rajan Maharjan on 05/06/2024.
+//  Created by Naina Maharjan on 05/06/2024.
 //
 
 import SwiftUI

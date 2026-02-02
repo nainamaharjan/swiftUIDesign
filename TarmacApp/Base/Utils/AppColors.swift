@@ -2,7 +2,7 @@
 //  app_colors.swift
 //  SIM App
 //
-//  Created by Rajan Maharjan on 19/05/2024.
+//  Created by Naina Maharjan on 19/05/2024.
 //
 import SwiftUI
 

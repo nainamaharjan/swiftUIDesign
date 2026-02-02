@@ -2,7 +2,7 @@
 //  DropDownPicker.swift
 //  SIM App
 //
-//  Created by Rajan Maharjan on 03/06/2024.
+//  Created by Naina Maharjan on 03/06/2024.
 //
 
 import SwiftUI

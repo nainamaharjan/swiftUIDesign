@@ -2,7 +2,7 @@
 ////  PlaceHolderImage.swift
 ////  SIM App
 ////
-////  Created by Rajan Maharjan on 13/07/2024.
+////  Created by Naina Maharjan on 13/07/2024.
 ////
 //
 //import SwiftUI

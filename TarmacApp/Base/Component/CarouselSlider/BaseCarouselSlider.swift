@@ -2,7 +2,7 @@
 //  base_carousel_slider.swift
 //  SIM App
 //
-//  Created by Rajan Maharjan on 21/05/2024.
+//  Created by Naina Maharjan on 21/05/2024.
 //
 
 import SwiftUI

@@ -2,7 +2,7 @@
 //  UIView+Extension.swift
 //  SIM App
 //
-//  Created by Rajan Maharjan on 25/06/2024.
+//  Created by Naina Maharjan on 25/06/2024.
 //
 
 import Foundation

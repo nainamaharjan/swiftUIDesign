@@ -2,7 +2,7 @@
 //  ErrorAlertDialog.swift
 //  SIM App
 //
-//  Created by Rajan Maharjan on 09/06/2024.
+//  Created by Naina Maharjan on 09/06/2024.
 //
 
 import SwiftUI
